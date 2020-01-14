@@ -17,10 +17,12 @@ comments: false
 * CSCI-GA 2250 Operating Systems (Fall 2017, NYU)
 * CSCI-SHU 308 Computer Networking (Spring 2016, NYUSH)
 
-### Programming Languages and Compilers
+### Programming Languages
 
-* CS 422 Programming Language Design (Spring 2020, UIUC)
+* CS 526 Advanced Compiler Construction (Spring 2020, UIUC)
+* CS 477 Formal Software Development Methods (Spring 2020, UIUC)
 * CS 426 Compiler Construction (Fall 2019, UIUC)
+* Functional Programming Principles in Scala (Coursera; self-studied in Winter 2019)
 * CSCI-GA 2110 Programming Languages (Spring 2018, NYU)
 * CSCI-UA 470 Object-Oriented Programming (Fall 2017, NYU)
 
@@ -30,6 +32,7 @@ comments: false
 * DS-GA 2012 Natural Language Understanding and Computational Semantics (Spring 2018, NYU)
 * CSCI-UA 473 Introduction to Machine Learning (Spring 2018, NYU)
 * CS231n Convolutional Neural Networks for Visual Recognition (Winter 2016, Stanford; self-studied in Winter 2017)
+* Andrew Ng's Machine Learning (Coursera; self-studied in Winter 2017)
 
 ### Architecture and Parallel Computing
 
