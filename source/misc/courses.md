@@ -8,6 +8,13 @@ comments: false
 
 ***
 
+## As TA/Grader
+
+* CS 438 Communication Systems (**Teaching Assistant**, Spring 2020, UIUC)
+* MATH-UA 140 Linear Algebra (**Grader**, Fall 2017, NYU)
+
+## As Student
+
 ### Systems and Networking
 
 * CS 423 Operating Systems Design (Spring 2020, UIUC)
@@ -50,7 +57,6 @@ comments: false
 * MATH-SHU 234 Mathematics of Statistics and Data Science I (Fall 2018, NYUSH)
 * CSCI-GA 2112 Scientific Computing (Fall 2017, NYU)
 * MATH-UA 328 Honors Analysis I (Fall 2017, NYU)
-* MATH-UA 140 Linear Algebra (**Grader**, Fall 2017, NYU)
 * MA-UY 2314 Discrete Mathematics (Summer 2017, NYU)
 * MATH-SHU 140 Linear Algebra (Spring 2017, NYUSH)
 * MATH-SHU 235 Probability and Statistics (Fall 2016, NYUSH)
