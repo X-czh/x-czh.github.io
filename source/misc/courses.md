@@ -10,7 +10,7 @@ comments: false
 
 ## As TA/Grader
 
-* CS 438 Communication Systems (**Teaching Assistant**, Spring 2020, UIUC)
+* CS/ECE 438 Communication Networks (**Teaching Assistant**, Spring 2020, UIUC)
 * MATH-UA 140 Linear Algebra (**Grader**, Fall 2017, NYU)
 
 ## As Student
