@@ -4,4 +4,5 @@ date:
 comments: false
 ---
 
-Here is a list of [courses](/misc/courses.html) I was/am involved in.
+* [A Personal History of Programming](/misc/programming.html)
+* A list of [courses](/misc/courses.html) I was/am involved in

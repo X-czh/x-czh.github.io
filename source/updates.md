@@ -8,6 +8,9 @@ comments: false
 
 ***
 
+**2020-04-13**
+My Summer 2020 Quora intern offer was revoked due to COVID-19.
+
 **2019-10-28**
 I will join Quora as Software Engineer Intern in Summer 2020.
 

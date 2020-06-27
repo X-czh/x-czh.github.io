@@ -17,6 +17,8 @@ comments: false
 
 ### Systems and Networking
 
+* CS 523 Advanced Operating Systems Design (Fall 2020, UIUC)
+* CS 411 Database Systems (Fall 2020, UIUC)
 * CS 423 Operating Systems Design (Spring 2020, UIUC)
 * CS 425 Distributed Systems (Fall 2019, UIUC)
 * CSCI-SHU 350 Embedded Computer Systems (Fall 2018, NYUSH)
