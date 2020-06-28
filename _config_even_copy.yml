@@ -18,6 +18,7 @@ rss: false
 # ===========================================
 menu:
   Home: /
+  Project: /project.html
   Blog: /blog/
   Resume: /resume.pdf
   Misc: /misc/
