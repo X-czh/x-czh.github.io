@@ -1,14 +1,8 @@
 ---
-title: Project
+title: Projects
 date:
 comments: false
 ---
-
-## [Algorithms-LeetCode](../Algorithms-LeetCode)
-
-*Jun 2019 - Present*
-
-Algorithms Notes with LeetCode Solutions.
 
 ## [MapleJuice](../MapleJuice)
 
