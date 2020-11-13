@@ -8,6 +8,9 @@ comments: false
 
 ***
 
+**2020-11-02**
+I will join ByteDance as Software Engineer (Infrastructure - Stream Computing) in Spring 2021.
+
 **2020-04-13**
 My Summer 2020 Quora intern offer was revoked due to COVID-19.
 
