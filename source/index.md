@@ -14,6 +14,9 @@ I'm blessed with a lovely girlfriend who is always enthusiastic in exploring the
 
 ## Recent Updates
 
+**2020-12-24**
+I graduated from University of Illinois at Urbana-Champaign.
+
 **2020-11-02**
 I will join ByteDance as Software Engineer (Infrastructure - Stream Computing) in Spring 2021.
 
