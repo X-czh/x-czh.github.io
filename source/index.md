@@ -14,7 +14,7 @@ I'm blessed with a lovely girlfriend who is always enthusiastic in exploring the
 
 ## Recent Updates
 
-**2020-12-24**
+**2020-12-21**
 I graduated from University of Illinois at Urbana-Champaign.
 
 **2020-11-02**
@@ -28,8 +28,5 @@ I will join Quora as Software Engineer Intern in Summer 2020.
 
 **2019-08-19**
 I started my master's studeis at University of Illinois at Urbana-Champaign.
-
-**2019-05-30**
-I graduated from New York University Shanghai.
 
 [More](/updates.html)

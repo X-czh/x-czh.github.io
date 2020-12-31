@@ -8,7 +8,7 @@ comments: false
 
 ***
 
-**2020-12-24**
+**2020-12-21**
 I graduated from University of Illinois at Urbana-Champaign.
 
 **2020-11-02**
