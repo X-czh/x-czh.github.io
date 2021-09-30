@@ -8,6 +8,12 @@ comments: false
 
 ***
 
+**2021-08-19**
+I'm married with [Susan Xu](https://susanxx.com/).
+
+**2021-02-19**
+I joined Stream Computing @ ByteDance.
+
 **2020-12-21**
 I graduated from University of Illinois at Urbana-Champaign.
 

@@ -105,4 +105,4 @@ theme: even
 deploy:
   type: git
   repo: https://github.com/X-czh/x-czh.github.io
-  branch: master
+  branch: gh-pages
