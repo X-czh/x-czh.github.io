@@ -8,6 +8,15 @@ comments: false
 
 ***
 
+**2023-08-28**
+Our paper [StreamOps: Cloud-Native Runtime Management for Streaming Services in ByteDance](https://www.vldb.org/pvldb/vol16/p3501-mao.pdf) appeared on VLDB 2023.
+
+**2022-10-07**
+Welcome to our wedding ceremony in Hangzhou.
+
+**2022-10-04**
+Welcome to our wedding ceremony in Suzhou.
+
 **2021-08-19**
 I'm married with [Susan Xu](https://susanxx.com/).
 

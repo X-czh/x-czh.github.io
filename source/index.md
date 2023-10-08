@@ -6,7 +6,7 @@ comments: false
 
 <img style="float: left; padding-right: 18px;" width="200" height="200" src="files/portrait.jpg">
 
-I am a software engineer at Stream Computing @ ByteDance, with a focus on high availaiablity, DevOps platform, and web UI of [Apache Flink](https://flink.apache.org/).
+I am a software engineer at Stream Computing @ ByteDance, aiming to make [Apache Flink](https://flink.apache.org/) more efficient and more user-friendly.
 
 Before that, I got my master's degree from University of Illinois at Urbana-Champaign (UIUC) and bachelor's degree from New York University Shanghai (NYUSH), both in Computer Science.
 
@@ -16,13 +16,19 @@ I'm blessed with a lovely wife who is always enthusiastic in exploring the beaut
 
 ## Recent Updates
 
+**2023-08-28**
+Our paper [StreamOps: Cloud-Native Runtime Management for Streaming Services in ByteDance](https://www.vldb.org/pvldb/vol16/p3501-mao.pdf) appeared on VLDB 2023.
+
+**2022-10-07**
+Welcome to our wedding ceremony in Hangzhou.
+
+**2022-10-04**
+Welcome to our wedding ceremony in Suzhou.
+
 **2021-08-19**
 I'm married with [Susan Xu](https://susanxx.com/).
 
 **2021-02-19**
 I joined Stream Computing @ ByteDance (Hangzhou, China).
-
-**2020-12-21**
-I graduated from University of Illinois at Urbana-Champaign.
 
 [More](/updates.html)
