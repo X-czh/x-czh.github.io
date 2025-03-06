@@ -14,7 +14,7 @@ I was born and raised in Suzhou, and am currently living in Hangzhou. As the old
 
 I'm blessed with a lovely wife who is always enthusiastic in exploring the beauty of the world and creating wonderful graphical designs, check out more [here](https://susanxx.com/).
 
-## Recent Updates
+## News
 
 **2023-08-28**
 Our paper [StreamOps: Cloud-Native Runtime Management for Streaming Services in ByteDance](https://www.vldb.org/pvldb/vol16/p3501-mao.pdf) appeared on VLDB 2023.

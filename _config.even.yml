@@ -18,9 +18,9 @@ rss: false
 # ===========================================
 menu:
   Home: /
+  Blog: /blog/
   Projects: /projects.html
   Notes: /notes.html
-  Blog: /blog/
   Misc: /misc/
   # Archives: /archives/
   # Tags: /tags/
