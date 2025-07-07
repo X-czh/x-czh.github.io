@@ -16,6 +16,12 @@ I'm blessed with a lovely wife who is always enthusiastic in exploring the beaut
 
 ## News
 
+**2025-05-22**
+Our paper [Learning from the Past: Adaptive Parallelism Tuning for Stream Processing Systems](https://arxiv.org/pdf/2504.12074) appeared on ICDE 2025.
+
+**2024-05-29**
+My daughter 瓜瓜 🍉 has arrived!
+
 **2023-08-28**
 Our paper [StreamOps: Cloud-Native Runtime Management for Streaming Services in ByteDance](https://www.vldb.org/pvldb/vol16/p3501-mao.pdf) appeared on VLDB 2023.
 
