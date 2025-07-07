@@ -22,19 +22,10 @@ Our paper [Learning from the Past: Adaptive Parallelism Tuning for Stream Proces
 **2024-05-29**
 My daughter 瓜瓜 🍉 has arrived!
 
+**2023-12-09**
+Presented [Flink 自动化运维的大规模落地实践](https://developer.aliyun.com/article/1385893) on Flink Forward Asia 2023.
+
 **2023-08-28**
 Our paper [StreamOps: Cloud-Native Runtime Management for Streaming Services in ByteDance](https://www.vldb.org/pvldb/vol16/p3501-mao.pdf) appeared on VLDB 2023.
-
-**2022-10-07**
-Welcome to our wedding ceremony in Hangzhou.
-
-**2022-10-04**
-Welcome to our wedding ceremony in Suzhou.
-
-**2021-08-19**
-I'm married with [Susan Xu](https://susanxx.com/).
-
-**2021-02-19**
-I joined Stream Computing @ ByteDance (Hangzhou, China).
 
 [More](/updates.html)
