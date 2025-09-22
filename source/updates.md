@@ -8,6 +8,9 @@ comments: false
 
 ***
 
+**2025-07-26**
+Our group presented [字节跳动 Flink 内存治理实践](https://asia.communityovercode.org/zh/sessions/streaming-903630.html) on ASF Community Over Code Asia 2025.
+
 **2025-05-22**
 Our paper [Learning from the Past: Adaptive Parallelism Tuning for Stream Processing Systems](https://arxiv.org/pdf/2504.12074) appeared on ICDE 2025.
 
